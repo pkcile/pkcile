@@ -13,7 +13,8 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+# url: https://pkcile.github.io/
+# root: ""
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -109,4 +110,7 @@ archive_generator:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://gitee.com/pkcile/pkcile.git
+  branch: master
+
