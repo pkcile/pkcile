@@ -13,8 +13,7 @@ with `html`, `button`, `input`, `select`, and `textarea`. Pure Grids use
 specific font stacks to ensure the greatest OS/browser compatibility.
 */
 html, body {
-  height: 100%;
-  width: 100%;
+  min-height: 1000px;
 }
 
 html,
