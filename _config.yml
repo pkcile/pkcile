@@ -8,7 +8,7 @@ subtitle: ''
 description: '积累'
 keywords:
 author: '王朋坤'
-language: zh-cn
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -101,7 +101,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: apollo
+theme: maupassan
 archive_generator:
     per_page: 0
     yearly: false
@@ -114,3 +114,13 @@ deploy:
   repo: https://gitee.com/pkcile/pkcile.git
   branch: master
 
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+search:
+path: search.xml
+field: post
+format: html
+limit: 10000
