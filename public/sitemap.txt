@@ -1,5 +1,0 @@
-http://example.com/2022/07/09/hello-world/
-http://example.com/1.html
-http://example.com/2022/06/25/hexo%E5%85%A5%E9%97%A8%E6%96%87%E7%AB%A0/
-http://example.com/
-http://example.com/tags/hexo%E3%80%81%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/

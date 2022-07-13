@@ -49,7 +49,7 @@ utterances: ## See: https://utteranc.es
   identifier: title ## The mapping between blog posts and GitHub issues.
   theme: github-light ## Choose an Utterances theme which matches your blog.
 twikoo: ## See: https://twikoo.js.org
-  enable: true ## If you want to use twikoo comment system, please set the value to true.
+  enable: false ## If you want to use twikoo comment system, please set the value to true.
   envId: ## Tencent CloudBase envId
   region:  ap-shanghai ## Tencent CloudBase region, e.g. ap-shanghai
   path: window.location.pathname ## Article path, e.g. window.location.pathname
