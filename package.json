@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "hexo": "^6.2.0",
+    "hexo-asset-image": "git+https://github.com/pkcile/hexo-asset-image-forked.git",
     "hexo-browsersync": "^0.3.0",
     "hexo-deployer-git": "^3.0.0",
     "hexo-filter-image": "^1.2.3",
@@ -33,6 +34,6 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^0.0.3",
-    "hexo-asset-image": "git+https://github.com/pkcile/hexo-asset-image-forked.git"
+    "serve": "^14.0.1"
   }
 }
