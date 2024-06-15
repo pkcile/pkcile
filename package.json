@@ -16,7 +16,7 @@
     "hexo": "^6.1.0",
     "hexo-asset-image": "git+https://github.com/pkcile/hexo-asset-image-forked.git",
     "hexo-browsersync": "^0.3.0",
-    "hexo-deployer-git": "^3.0.0",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-filter-image": "^1.2.3",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
