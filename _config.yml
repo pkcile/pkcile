@@ -120,7 +120,7 @@ node_sass:
   sourceComments: false
 
 search:
-  enable: true
+  enable: false
   path: search.xml
   field: post
   format: html
