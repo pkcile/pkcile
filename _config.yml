@@ -111,8 +111,8 @@ archive_generator:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://gitee.com/pkcile/pkcile.git
-  branch: master
+  repo: https://github.com/pkcile/hexo-blog.git
+  branch: main
 
 node_sass:
   outputStyle: nested
@@ -120,7 +120,7 @@ node_sass:
   sourceComments: false
 
 search:
-  enable: false
+  enable: true
   path: search.xml
   field: post
   format: html
